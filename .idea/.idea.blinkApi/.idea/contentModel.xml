@@ -11,9 +11,16 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="blinkApi.csproj" t="IncludeRecursive" />
-        <e p="Contexts" t="Include" />
+        <e p="Contexts" t="Include">
+          <e p="BlinkDB.cs" t="Include" />
+        </e>
         <e p="Controllers" t="Include">
-          <e p="ValuesController.cs" t="Include" />
+          <e p="BlinkController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Posts.cs" t="Include" />
+          <e p="User.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

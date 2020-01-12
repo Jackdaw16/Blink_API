@@ -6,12 +6,12 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="EntityFramework.SqlServerCompact" Version="6.4.0" />
         <PackageReference Include="Microsoft.AspNetCore.App" />
         <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Contexts" />
+        <PackageReference Include="Microsoft.SqlServer.Compact" Version="4.0.8876.1" />
+        <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.18" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="4.0.1" />
     </ItemGroup>
 
 </Project>

@@ -1,18 +1,60 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c797000-e4e7-4d64-b085-5866b82c6169" name="Default Changelist" comment="" />
+    <list default="true" id="9c797000-e4e7-4d64-b085-5866b82c6169" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blinkApi/Contexts/BlinkDB.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blinkApi/Controllers/UsersController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blinkApi/Models/Posts.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blinkApi/Models/User.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.blinkApi/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blinkApi/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.blinkApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blinkApi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/Controllers/ValuesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/blinkApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/blinkApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/Debug/netcoreapp2.2/blinkApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/Debug/netcoreapp2.2/blinkApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/Debug/netcoreapp2.2/blinkApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/Debug/netcoreapp2.2/blinkApi.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/blinkApi.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blinkApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blinkApi/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/blinkApi/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/blinkApi/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blinkApi/Contexts/BlinkDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blinkApi/Controllers/BlinkController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blinkApi/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blinkApi/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/blinkApi/Models/Posts.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/blinkApi/Models/post.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/Models/Posts.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/Models/User.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/Contexts/BlinkDB.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/appsettings.json" />
+        <option value="$PROJECT_DIR$/blinkApi/Startup.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/Controllers/BlinkController.cs" />
+        <option value="$PROJECT_DIR$/blinkApi/Controllers/UsersController.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1WIpGYHktTe91YVUyaCMRMsJ8v2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
@@ -72,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578846867669</updated>
-      <workItem from="1578846870064" duration="860000" />
+      <workItem from="1578846870064" duration="3565000" />
     </task>
     <servers />
   </component>
@@ -81,6 +123,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
